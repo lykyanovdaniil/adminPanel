@@ -1,0 +1,11 @@
+<a href="#">News <span class="badge">5</span></a><br>
+<a href="#">Comments <span class="badge">10</span></a><br>
+<a href="#">Updates <span class="badge">2</span></a>
+<button type="button" class="btn btn-primary">Primary <span class="badge">7</span></button>
+<h1>Example <span class="label label-default">New</span></h1>
+<h2>Example <span class="label label-default">New</span></h2>
+<h3>Example <span class="label label-default">New</span></h3>
+<h4>Example <span class="label label-default">New</span></h4>
+<h5>Example <span class="label label-default">New</span></h5>
+<h6>Example <span class="label label-default">New</span></h6>
+Zadanie 3
