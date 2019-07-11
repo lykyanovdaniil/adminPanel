@@ -3,4 +3,3 @@
 <div id="demo" class="collapse">
 Приветствуем юных программистов
 </div>
-1
