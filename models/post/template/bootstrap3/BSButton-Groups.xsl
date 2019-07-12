@@ -8,4 +8,4 @@
   <button type="button" class="btn btn-primary">Samsung</button>
   <button type="button" class="btn btn-primary">Sony</button>
 </div>
-Zadanie 1
+Zad 1

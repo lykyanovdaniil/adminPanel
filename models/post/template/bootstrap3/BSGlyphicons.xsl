@@ -19,4 +19,4 @@
     <span class="glyphicon glyphicon-print"></span> Print 
   </a>
 </p>
-Zadanie 2
+Zad 1
